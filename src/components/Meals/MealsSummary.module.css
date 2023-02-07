@@ -1,16 +1,17 @@
 .summary {
-    text-align: center;
-    width: 90%;
-    margin: auto;
-    position: relative;
-    background-color:  rgb(236, 148, 46) ;
-    color: #3f1707;
-    padding: 1rem;
-    border-radius: 14px;
-    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
-  }
-  
-  .summary h2 {
-    font-size: 2rem;
-    margin-top: 0;
-  }
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  position: relative;
+  background-color: #3f1707;
+  color: rgb(208, 245, 173);
+  padding: 0.5rem;
+  border-radius: 14px;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+  text-shadow:  5px 5px 1px black;
+}
+
+.summary h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
