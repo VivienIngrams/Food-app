@@ -11,6 +11,7 @@
   border-radius: 25px;
   font-weight: bold;
   width: fit-content;
+  text-shadow:  5px 5px 5px black;
 }
 
 .button:hover,
@@ -30,6 +31,7 @@
   border-radius: 25px;
   margin-left: 1rem;
   font-weight: bold;
+  text-shadow: 0 0 0 orange;
 }
 
 .button:hover .badge,

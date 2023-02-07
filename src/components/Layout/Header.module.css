@@ -1,7 +1,7 @@
 .header {
     position: absolute;
     width: 100%;
-    height: 20rem;
+    height: 15rem;
     font-size: x-large;
     text-shadow: 3px 3px 3px rgb(61, 50, 3);
     font-weight: lighter;
@@ -19,7 +19,7 @@
   
   .main-image {
     width: 100vw;
-    height: 20rem;
+    height: 15rem;
     overflow: hidden;
   }
   
