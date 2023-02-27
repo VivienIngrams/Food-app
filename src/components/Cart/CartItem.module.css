@@ -5,6 +5,7 @@
   border-bottom: 2px solid #3f1707;
   padding: 1rem 0;
   background-color:  rgb(208, 245, 173);
+
   color:  #3f1707;
   margin: 1rem 0;
 }
@@ -32,6 +33,7 @@
   padding: 0.25rem 0.75rem;
   border-radius: 6px;
   color: #5a1a01;
+  background-color: white;
 }
 
 .actions {
@@ -54,7 +56,7 @@
   width: 3rem;
   text-align: center;
   border-radius: 6px;
-  background-color: transparent;
+  background-color: orange;
   cursor: pointer;
   margin-left: 1rem;
   margin: 0.25rem;

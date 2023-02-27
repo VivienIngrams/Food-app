@@ -1,7 +1,9 @@
 .meals {
   width: 70%;
+  height: 100%;
   margin: 2rem auto;
   animation: meals-appear 1s ease-out forwards;
+padding-bottom: 20px;
 }
 
 .meals ul {

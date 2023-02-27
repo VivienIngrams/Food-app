@@ -12,6 +12,8 @@
   font-weight: bold;
   width: fit-content;
   text-shadow:  5px 5px 5px black;
+  box-shadow: 5px 10px 20px 8px rgba(0, 0, 0, 0.8);
+
 }
 
 .button:hover,
@@ -32,6 +34,7 @@
   margin-left: 1rem;
   font-weight: bold;
   text-shadow: 0 0 0 orange;
+  
 }
 
 .button:hover .badge,
